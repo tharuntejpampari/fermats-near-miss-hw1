@@ -12,7 +12,7 @@ the program prints a labeled update; it prints the **final/best** miss last and 
 
 ### Windows (PowerShell or CMD)
 ```bat
-run.bat
+./run.bat
 ```
 
 ### macOS / Linux
